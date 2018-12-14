@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\users\sanbl\documents\visual studio 2015\projects\project1\project1\source.cpp(6): warning C4018: '<': no coinciden signed/unsigned
-c:\users\sanbl\documents\visual studio 2015\projects\project1\project1\source.cpp(14): warning C4018: '<': no coinciden signed/unsigned
-  Project1.vcxproj -> c:\users\sanbl\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
-  Project1.vcxproj -> c:\users\sanbl\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
